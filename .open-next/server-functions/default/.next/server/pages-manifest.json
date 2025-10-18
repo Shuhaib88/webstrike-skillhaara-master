@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/blog": "pages/blog.html",
+  "/contact": "pages/contact.html",
+  "/courses/ai-ml-chatgpt-&-data-science": "pages/courses/ai-ml-chatgpt-&-data-science.html",
+  "/courses/digital-marketing": "pages/courses/digital-marketing.html",
+  "/courses/fashion-designing": "pages/courses/fashion-designing.html",
+  "/courses/graphic-designing-&-animation": "pages/courses/graphic-designing-&-animation.html",
+  "/courses": "pages/courses.html",
+  "/courses/information-technology-&-networking": "pages/courses/information-technology-&-networking.html",
+  "/courses/interior-designing-&-architecture": "pages/courses/interior-designing-&-architecture.html",
+  "/courses/software-development-&-management": "pages/courses/software-development-&-management.html",
+  "/": "pages/index.html",
+  "/gallery": "pages/gallery.html",
+  "/_error": "pages/_error.js"
+}
