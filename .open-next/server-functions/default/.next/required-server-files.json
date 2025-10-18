@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\webstrike-skillhaara-master",
+    "outputFileTracingRoot": "D:\\Projects\\webstrike-skillhaara-master",
     "experimental": {
       "useSkewCookie": false,
       "cacheLife": {
@@ -288,10 +288,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "D:\\webstrike-skillhaara-master"
+      "root": "D:\\Projects\\webstrike-skillhaara-master"
     }
   },
-  "appDir": "D:\\webstrike-skillhaara-master",
+  "appDir": "D:\\Projects\\webstrike-skillhaara-master",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
