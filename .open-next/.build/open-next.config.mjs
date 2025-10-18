@@ -206,7 +206,19 @@ function resolveCdnInvalidation(value = "dummy") {
 }
 
 // open-next.config.ts
-var open_next_config_default = defineCloudflareConfig();
+var open_next_config_default = defineCloudflareConfig({
+  esbuild: {
+    external: [
+      "@emotion/react",
+      "@emotion/styled",
+      "@emotion/cache",
+      "@emotion/utils",
+      "@mui/material",
+      "@mui/system",
+      "@mui/styled-engine"
+    ]
+  }
+});
 export {
   open_next_config_default as default
 };
